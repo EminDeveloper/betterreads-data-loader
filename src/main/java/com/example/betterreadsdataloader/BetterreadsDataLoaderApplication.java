@@ -1,6 +1,6 @@
 package com.example.betterreadsdataloader;
 
-import connection.DataStaxAstraProperties;
+import com.example.betterreadsdataloader.connection.DataStaxAstraProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.cassandra.CqlSessionBuilderCustomizer;
